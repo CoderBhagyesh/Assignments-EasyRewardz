@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\bin\Debug\net8.0\LINQ Queries Assignment.exe
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\bin\Debug\net8.0\LINQ Queries Assignment.deps.json
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\bin\Debug\net8.0\LINQ Queries Assignment.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\bin\Debug\net8.0\LINQ Queries Assignment.dll
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\bin\Debug\net8.0\LINQ Queries Assignment.pdb
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\LINQ Queries Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\LINQ Queries Assignment.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\LINQ Queries Assignment.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\LINQ Queries Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\LINQ Queries Assignment.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\LINQ Queries Assignment.dll
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\refint\LINQ Queries Assignment.dll
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\LINQ Queries Assignment.pdb
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\LINQ Queries Assignment.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\EasyRewardz Assignments\LINQ Queries Assignment\LINQ Queries Assignment\obj\Debug\net8.0\ref\LINQ Queries Assignment.dll

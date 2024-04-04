@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "redmi 10",
+    "month": "january",
+    "totalOrders": 10,
+    "category": "electronics"
+  },
+  {
+    "id": 6,
+    "name": "realme 12",
+    "month": "january",
+    "totalOrders": 13,
+    "category": "electronics"
+  },
+  {
+    "id": 2,
+    "name": "t-shirt",
+    "month": "february",
+    "totalOrders": 20,
+    "category": "cloths"
+  },
+  {
+    "id": 7,
+    "name": "shirt",
+    "month": "february",
+    "totalOrders": 20,
+    "category": "cloths"
+  },
+  {
+    "id": 3,
+    "name": "stickers",
+    "month": "march",
+    "totalOrders": 7,
+    "category": "decor"
+  },
+  {
+    "id": 4,
+    "name": "fiction",
+    "month": "april",
+    "totalOrders": 39,
+    "category": "books"
+  },
+  {
+    "id": 5,
+    "name": "laptop",
+    "month": "may",
+    "totalOrders": 10,
+    "category": "electronics"
+  }
+]

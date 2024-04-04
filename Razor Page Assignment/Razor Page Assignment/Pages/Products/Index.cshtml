@@ -1,0 +1,13 @@
+﻿@page
+@model Razor_Page_Assignment.Pages.Products.IndexModel
+
+<h1>Products</h1>
+
+<ul>
+    @foreach(var product in Model.Products)
+    {
+        <li>
+            @product.Name - Rs.@product.Price
+        </li>
+    }
+</ul>
